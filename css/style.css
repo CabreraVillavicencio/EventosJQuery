@@ -1,0 +1,11 @@
+.abajo {
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+}
+.arriba {
+    width: 150px;
+    position: absolute;
+    top: 3%;
+    right: 0;
+}
